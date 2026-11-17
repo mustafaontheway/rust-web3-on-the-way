@@ -1,4 +1,4 @@
-# Rust Language:
+# Rust Language && Web3 FinTech:
 
 * Rust Language (From Basic to Advanced)
 
