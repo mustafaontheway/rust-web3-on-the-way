@@ -11,5 +11,3 @@
   * Near
     
   * ICP
-    
-  * CosmWasm
